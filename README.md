@@ -54,3 +54,9 @@ Estamos trabalhando para melhorar a aplicação e planejamos disponibilizá-la c
 Contribuições, sugestões e melhorias são sempre bem-vindas! Fique à vontade para abrir uma _issue_ ou enviar um _pull request_ com suas contribuições.
 
 Divirta-se usando a calculadora de amor e aproveite para descobrir a porcentagem de amor entre você e seu parceiro(a)!
+
+## Redes Sociais
+
+- **Instagram** : [Instagram Daanrox](https://instagram.com/daanrox)
+- **Whatsapp** : [Whatsapp Daanrox](https://wa.me/5531992812273)
+- **Discord** : [Discord Server](https://discord.gg/KfmTyMdPqg)
