@@ -28,7 +28,7 @@ git clone https://github.com/daanrox/love-metter
 ### Navegue até o diretório do projeto
 
 ```bash
-cd love-metter
+cd Love-Metter
 ```
 
 
