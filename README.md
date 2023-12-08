@@ -48,10 +48,10 @@ python main.py
 Agora você pode experimentar a calculadora de amor interativa!
 
 ## Contato
-Para dúvidas ou mais informações, entre em contato:
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seuperfil/)
+Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
+- Email : [contato@daanrox.com](mailto:contato@daanrox.com)
+- LinkedIn: [https://www.linkedin.com/in/daanrox/](Daanrox)
 
 --- 
 
-Esse projeto é parte do curso de Python Avançado.
+"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos."
