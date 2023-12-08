@@ -1,62 +1,57 @@
 # Calculadora de Amor
 
-Este repositório contém uma aplicação de calculadora de amor desenvolvida em Python, que permite aos usuários calcular a porcentagem de amor entre casais. A aplicação utiliza a API Love Calculator para obter resultados precisos e personalizados.
+## Descrição
+O repositório contém uma aplicação de calculadora de amor desenvolvida em Python, permitindo aos usuários calcular a porcentagem de amor entre casais. A aplicação utiliza a API Love Calculator para obter resultados precisos e personalizados.
 
-## Recursos principais
+## Tecnologias Utilizadas
+- Python
+- Tkinter
 
-- **Cálculo de amor:** Os usuários podem inserir os nomes do casal e obter a porcentagem de amor entre eles.
-- **Mensagem de retorno:** Além da porcentagem, a aplicação exibe uma mensagem personalizada baseada no resultado obtido.
-- **Persistência de resultados:** Como a API Love Calculator retorna resultados consistentes para as mesmas entradas, os usuários podem acessar o mesmo resultado sempre que pesquisarem com o mesmo casal.
+## Funcionalidades
+- **Cálculo de Amor:** Os usuários podem inserir os nomes do casal e obter a porcentagem de amor entre eles.
+- **Mensagem de Retorno:** Além da porcentagem, a aplicação exibe uma mensagem personalizada baseada no resultado obtido.
+- **Persistência de Resultados:** A API Love Calculator retorna resultados consistentes para as mesmas entradas, permitindo que os usuários acessem o mesmo resultado sempre que pesquisarem com o mesmo casal.
 
-## Tecnologias utilizadas
 
-- **Linguagem de programação:** Python
-- **Biblioteca gráfica:** Tkinter
 
-## Executando a aplicação
+## Executando o Projeto
 
-Certifique-se de ter o Python instalado. Em seguida, siga estas etapas:
+### Pré-requisitos
+Certifique-se de ter o Python instalado.
 
-1. Clone o repositório: 
+### Clone o repositório
+No terminal, execute o seguinte comando para clonar o repositório:
 
-```
+```bash
 git clone https://github.com/daanrox/love-metter
 ```
+### Navegue até o diretório do projeto
 
-
-2. Navegue até o diretório do projeto:
-
-```
+```bash
 cd love-metter
 ```
 
-3. Instale as dependências:
 
-```
+### Instale as dependências
+
+```bash
 pip install -r requirements.txt
 ```
 
-4. Execute o arquivo principal:
 
-```
+### Execute o arquivo principal
+
+```bash
 python main.py
 ```
 
-
 Agora você pode experimentar a calculadora de amor interativa!
 
-## Próximos passos
+## Contato
+Para dúvidas ou mais informações, entre em contato:
+- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seuperfil/)
 
-Estamos trabalhando para melhorar a aplicação e planejamos disponibilizá-la como uma versão web acessível em navegadores e como um aplicativo mobile para maior conveniência dos usuários.
+--- 
 
-## Contribuição
-
-Contribuições, sugestões e melhorias são sempre bem-vindas! Fique à vontade para abrir uma _issue_ ou enviar um _pull request_ com suas contribuições.
-
-Divirta-se usando a calculadora de amor e aproveite para descobrir a porcentagem de amor entre você e seu parceiro(a)!
-
-## Redes Sociais
-
-- **Instagram** : [Instagram Daanrox](https://instagram.com/daanrox)
-- **Whatsapp** : [Whatsapp Daanrox](https://wa.me/5531992812273)
-- **Discord** : [Discord Server](https://discord.gg/KfmTyMdPqg)
+Esse projeto é parte do curso de Python Avançado.
